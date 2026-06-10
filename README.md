@@ -1,1 +1,1 @@
-# HotSeat
+# HotSeat - AI Interviewer
