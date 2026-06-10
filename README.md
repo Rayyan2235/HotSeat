@@ -1,6 +1,4 @@
-# HotSeat - AI Interviewer
-
-# HotSeat 🔥
+# HotSeat 🔥 - AI Interviewer
 
 A voice-first AI mock interview tool for CS students. Practice technical interviews by actually talking through problems out loud — not typing solutions in silence.
 
